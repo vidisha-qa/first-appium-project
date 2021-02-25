@@ -1,0 +1,5 @@
+[{"location" : "Mumbai - Kamla Mills", "QuestionText" : "Have you travelled outside of the country within the last 14 days? *", "ans" : "Yes"},
+{"location" : "Mumbai - Kamla Mills", "QuestionText" : "Have you had close contact with or cared for someone diagnosed with COVID-19 within the last 14 days? *", "ans" : "No"},
+{"location" : "Mumbai - Kamla Mills", "QuestionText" : "Have you been in close contact with anyone who has traveled outside of the country within the last 14 days *", "ans" : "Yes"},
+{"location" : "Mumbai - Kamla Mills", "QuestionText" : "Have you experienced any cold or flu-like symptoms in the last 14 days including: fever (a temperature above 100.4 degrees Fahrenheit), cough, sore throat, respiratory illness, loss of ability to taste or smell, shortness of breath and/or difficulty breathing? *", "ans" : "No"},
+{"location" : "Mumbai - Kamla Mills", "QuestionText" : "Have you traveled to any of the states designated by New York State to have a significant degree of community-wide spread of COVID-19 within the last 14 days? The list of restricted states can be found here: ", "ans" : "Yes"}]
